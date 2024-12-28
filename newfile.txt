@@ -1,0 +1,7 @@
+This is a message for message.txt
+
+Initial content in message from local repository
+
+This is msg from github
+
+This is msg from github agian
